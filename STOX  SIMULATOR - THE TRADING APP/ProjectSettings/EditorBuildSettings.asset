@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/WELCOME SCREEN.unity
+    guid: 41e1e4bac38b60f4c98537e652db4f3f
+  - enabled: 1
+    path: Assets/Scenes/PORTFOLIO.unity
+    guid: 959eb4e1412e09c44b946e559faa2da4
+  - enabled: 1
+    path: Assets/Scenes/INVEST.unity
+    guid: 744c8ce2b609dbf4c922374706852538
+  - enabled: 1
+    path: Assets/Scenes/DAILY TRENDS.unity
+    guid: 3f672fbe58766c74abe04c56616c661e
+  - enabled: 1
+    path: Assets/Scenes/TRADE NEWS.unity
+    guid: 13305894bc19a4c0b9628a8b5b587b99
+  - enabled: 1
+    path: Assets/Scenes/SELECTED STOCK.unity
+    guid: af1284594fda7ab4194f0fa7b429f2f4
+  - enabled: 1
+    path: Assets/Scenes/SETTINGS.unity
+    guid: 7dffa3dbb9517354498981d7bf689136
+  m_configObjects: {}

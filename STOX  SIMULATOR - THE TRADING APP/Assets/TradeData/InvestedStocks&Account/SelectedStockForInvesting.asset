@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8678bd7b23d6f884382be72989d00420, type: 3}
+  m_Name: SelectedStockForInvesting
+  m_EditorClassIdentifier: 
+  symbol: AAPL
+  name: Apple Inc
+  open: 142.75
+  close: 143.24
+  high: 145.65
+  low: 142.6522
+  current: 145.11
+  referencedStock: {fileID: 11400000, guid: bfa3577a3695bc044b9355a88af52d69, type: 2}
+  shares: 0
+  PriceWhenBuying: 0
+  Profit: 0
+  lastWeek:
+  - 136.96
+  - 137.27
+  - 139.96
+  - 142.02
+  - 144.57
+  - 143.24
+  - 145.11
+  lastMonth:
+  - 125.28
+  - 124.61
+  - 124.28
+  - 125.06
+  - 123.54
+  - 125.89
+  - 125.9
+  - 126.74
+  - 127.13
+  - 126.11
+  - 127.35
+  - 130.48
+  - 129.64
+  - 130.15
+  - 131.79
+  - 130.46
+  - 132.3
+  - 133.98
+  - 133.7
+  - 133.41
+  - 133.11
+  - 134.78
+  - 136.33
+  - 136.96
+  - 137.27
+  - 139.96
+  - 142.02
+  - 144.57
+  - 143.24
+  - 145.11
+  lastYear:
+  - 129.04
+  - 115.81
+  - 108.86
+  - 119.05
+  - 132.69
+  - 131.96
+  - 121.26
+  - 122.15
+  - 131.46
+  - 124.61
+  - 136.96
+  - 143.24
